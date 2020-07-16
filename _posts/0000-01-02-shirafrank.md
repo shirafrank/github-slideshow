@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+New Text, Mession 7
 Use the left arrow to go back!
